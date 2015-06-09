@@ -5,10 +5,10 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>
-	Hello world!  1234 12 aop
+<h1 align="center">
+	test Main
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P align="center">  fridge start</P>
 </body>
 </html>
